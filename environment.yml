@@ -4,3 +4,8 @@ dependencies:
   - netCDF4
   - cartopy
   - ffmpeg
+  - arm_pyart
+  - metpy
+  - siphon
+  - boto3
+  - matplotlib
