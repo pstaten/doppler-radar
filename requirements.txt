@@ -1,0 +1,6 @@
+boto3
+numpy
+matplotlib
+arm_pyart
+metpy
+siphon
